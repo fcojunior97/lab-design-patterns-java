@@ -1,4 +1,4 @@
-package org.fco;
+package org.fco.singleton;
 
 
 /**
